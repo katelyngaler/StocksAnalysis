@@ -7,7 +7,7 @@ The purpose of this project is to analyze stock data for green stocks. The code 
 ### Stock Analysis (performance 2017 vs 2018)
 The images below show the stock summaries for 2017 and 2018. In 2017 all the green stocks, other than TERP had positive returns, these varied, but the highest were DQ and SEDG. In 2018 only two of the green stocks had positive returns, they were ENPH and RUN. Since RUn had 5.5% return in 2017, but ENPH was 129.5% in 2017 and 81.9% in 2018, it seems to have the most consistent performance of the stocks listed. 
 
-[img.png](link) [img.png](link)
+[VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.PNG) [VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
 
 ### Refactoring Analysis
 Refactoring the code reduced the number of loops and included formatting. It resulted in improving the time to run the program. The images above show the run time from the refactored code. Originally, the code too 0.33 and 0.34 seconds and after refactoring 0.0625 seconds. This is a 81% improvement. In both cases the code ran in less than one second. The Excel sheet with code can be found here: [sheet.xlsm](link)
